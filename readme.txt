@@ -1,3 +1,3 @@
 trying to learn git
 how are you?
-git is so NOT fun
+git is so fun
